@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "G9Qxl1pbNsy0/Op7BlClXx/3vkdOXvPLPPJAbTmhiVh6Stvd1BlL4baNAJ8iNlcbmqOJzwIZPsgvEElHDtrN8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ruips\\Desktop\\Jetbrains Rider\\APAI\\2. Trabalhos\\Tarefa6\\TraktApp\\TraktApp\\TraktApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ruips\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\ruips\\.nuget\\packages\\npgsql\\5.0.0-alpha1\\npgsql.5.0.0-alpha1.nupkg.sha512",
+    "C:\\Users\\ruips\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

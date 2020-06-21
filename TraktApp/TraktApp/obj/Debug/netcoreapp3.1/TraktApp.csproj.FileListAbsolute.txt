@@ -1,0 +1,16 @@
+C:\Users\ruips\Desktop\Jetbrains Rider\APAI\2. Trabalhos\Tarefa6\TraktApp\TraktApp\bin\Debug\netcoreapp3.1\TraktApp.exe
+C:\Users\ruips\Desktop\Jetbrains Rider\APAI\2. Trabalhos\Tarefa6\TraktApp\TraktApp\bin\Debug\netcoreapp3.1\TraktApp.deps.json
+C:\Users\ruips\Desktop\Jetbrains Rider\APAI\2. Trabalhos\Tarefa6\TraktApp\TraktApp\bin\Debug\netcoreapp3.1\TraktApp.runtimeconfig.json
+C:\Users\ruips\Desktop\Jetbrains Rider\APAI\2. Trabalhos\Tarefa6\TraktApp\TraktApp\bin\Debug\netcoreapp3.1\TraktApp.runtimeconfig.dev.json
+C:\Users\ruips\Desktop\Jetbrains Rider\APAI\2. Trabalhos\Tarefa6\TraktApp\TraktApp\bin\Debug\netcoreapp3.1\TraktApp.dll
+C:\Users\ruips\Desktop\Jetbrains Rider\APAI\2. Trabalhos\Tarefa6\TraktApp\TraktApp\bin\Debug\netcoreapp3.1\TraktApp.pdb
+C:\Users\ruips\Desktop\Jetbrains Rider\APAI\2. Trabalhos\Tarefa6\TraktApp\TraktApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ruips\Desktop\Jetbrains Rider\APAI\2. Trabalhos\Tarefa6\TraktApp\TraktApp\obj\Debug\netcoreapp3.1\TraktApp.csprojAssemblyReference.cache
+C:\Users\ruips\Desktop\Jetbrains Rider\APAI\2. Trabalhos\Tarefa6\TraktApp\TraktApp\obj\Debug\netcoreapp3.1\TraktApp.csproj.CoreCompileInputs.cache
+C:\Users\ruips\Desktop\Jetbrains Rider\APAI\2. Trabalhos\Tarefa6\TraktApp\TraktApp\obj\Debug\netcoreapp3.1\TraktApp.AssemblyInfoInputs.cache
+C:\Users\ruips\Desktop\Jetbrains Rider\APAI\2. Trabalhos\Tarefa6\TraktApp\TraktApp\obj\Debug\netcoreapp3.1\TraktApp.AssemblyInfo.cs
+C:\Users\ruips\Desktop\Jetbrains Rider\APAI\2. Trabalhos\Tarefa6\TraktApp\TraktApp\obj\Debug\netcoreapp3.1\TraktApp.csproj.CopyComplete
+C:\Users\ruips\Desktop\Jetbrains Rider\APAI\2. Trabalhos\Tarefa6\TraktApp\TraktApp\obj\Debug\netcoreapp3.1\TraktApp.dll
+C:\Users\ruips\Desktop\Jetbrains Rider\APAI\2. Trabalhos\Tarefa6\TraktApp\TraktApp\obj\Debug\netcoreapp3.1\TraktApp.pdb
+C:\Users\ruips\Desktop\Jetbrains Rider\APAI\2. Trabalhos\Tarefa6\TraktApp\TraktApp\obj\Debug\netcoreapp3.1\TraktApp.genruntimeconfig.cache
+C:\Users\ruips\Desktop\Jetbrains Rider\APAI\2. Trabalhos\Tarefa6\TraktApp\TraktApp\bin\Debug\netcoreapp3.1\Npgsql.dll
